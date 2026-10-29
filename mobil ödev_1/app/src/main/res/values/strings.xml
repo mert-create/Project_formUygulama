@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Form Uygulaması</string>
+    <string name="ad_soyad">Ad Soyad</string>
+    <string name="eposta">E-posta Adresi</string>
+    <string name="yas">Yaş</string>
+    <string name="kayit_ol">Kayıt Ol</string>
+    <string name="kullanici_adi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="sifremi_unuttum">ŞİFREMİ UNUTTUM?</string>
+    <string name="fotograf">Doğa fotoğrafı</string>
+</resources>
